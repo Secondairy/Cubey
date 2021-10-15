@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Secondairy/Cubey/master/src/main/resources/icon.png)
+![alt text](https://raw.githubusercontent.com/Secondairy/Cubey/master/src/main/resources/icon.png | width=100)
 # Cubey
 Cubey is love, Cubey is life.
 
