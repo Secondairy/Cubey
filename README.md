@@ -1,5 +1,7 @@
-<img src="https://raw.githubusercontent.com/Secondairy/Cubey/master/src/main/resources/icon.png" width=20% height=20%>
 # Cubey
+
+<img src="https://raw.githubusercontent.com/Secondairy/Cubey/master/src/main/resources/icon.png" width=20% height=20%>
+
 Cubey is love, Cubey is life.
 
 Have you ever wanted to speedrun, with 100% guatantee of getting a treasure bastion? Well, here it is - the mod for you.
