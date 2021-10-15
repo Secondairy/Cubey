@@ -9,7 +9,7 @@
   ],
   "contact": {},
   "license": "MIT",
-  "icon": "assets/cubey/icon.png",
+  "icon": "icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [
@@ -23,7 +23,6 @@
   ],
   "depends": {
     "fabricloader": ">=0.11.6",
-    "fabric": "*",
     "minecraft": "1.16.1"
   }
 }
