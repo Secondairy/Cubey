@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "cubey",
+  "version": "${version}",
+  "name": "Cubey",
+  "description": "Removes all fortresses, changes all bastions to treasure and changes the magma cube spawner in treasure to a blaze spawner.",
+  "authors": [
+    "Secondairy"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/cubey/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+    ],
+    "main": [
+      "me.secondairy.cubey.Cubey"
+    ]
+  },
+  "mixins": [
+    "cubey.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*",
+    "minecraft": "1.16.1"
+  }
+}

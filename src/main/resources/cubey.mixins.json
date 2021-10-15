@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.secondairy.cubey.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BastionRemnantFeatureConfigMixin",
+    "NetherFortressFeatureMixin",
+    "LocateCommandMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
